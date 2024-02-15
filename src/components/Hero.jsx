@@ -32,10 +32,9 @@ const Hero = (props) => {
         <Typewriter
           options={{
             strings: [
-              "An Aspiring Developer",
+              "An Aspiring web Developer",
               "An AI & ML Enthusiast",
-              "An IoT Enthusiast",
-              "A Student",
+              "A  Computer Science Student",
             ],
             autoStart: true,
             loop: true,
