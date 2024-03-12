@@ -2,7 +2,7 @@ const items = [
   {
     title:
       "The AI Showdown of 2023: Google Unveils Gemini to Challenge GPT-4 Dominance",
-    link: "https://blog.randiltharusha.me/posts/google-unveils-gemini/",
+    link: "",
     pubDate: "Fri, 08 Dec 2023",
     guid: "https://rtharusha.tech/posts/google-unveils-gemini/",
     image: "https://rtharusha.tech/images/gemini.webp",
@@ -11,7 +11,7 @@ const items = [
   },
   {
     title: "What is Zig? A Deep Dive into the Next-Gen Programming Language",
-    link: "https://blog.randiltharusha.me/posts/introduction-to-zig/",
+    link: "",
     pubDate: "Thu, 30 Nov 2023",
     guid: "https://rtharusha.tech/posts/introduction-to-zig/",
     image: "https://rtharusha.tech/images/zig-lang-banner.webp",
@@ -20,7 +20,7 @@ const items = [
   },
   {
     title: "Shooting Genjitsu: A Game Developed by a Sri Lankan Developer",
-    link: "https://blog.randiltharusha.me/shooting-genjitsu-game/",
+    link: "",
     pubDate: "Thu, 30 Nov 2023",
     guid: "https://rtharusha.tech/posts/shooting-genjitsu-game/",
     image: "https://rtharusha.tech/images/genjitsu.webp",

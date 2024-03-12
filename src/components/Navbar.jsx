@@ -36,6 +36,14 @@ const Navbar = (props) => {
               Contact Me
             </a>
           </li>
+          <li>
+            <a
+              href="https://drive.google.com/file/d/10wb16KsDn4luJapXniFYUidMdLta9buz/view?usp=drive_link"
+              className="navbar-btn2"
+            >
+              Download my CV
+            </a>
+          </li>
         </ul>
       </nav>
     </header>

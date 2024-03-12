@@ -541,6 +541,18 @@ form > input[type="submit"]:hover {
   background-color: #f10505;
   box-shadow: 0 8px 32px 0 rgba(135, 47, 31, 0.8);
 }
+.navbar-btn2 {
+  padding: 5px;
+  border: solid #f10505;
+  border-radius: 10px;
+  box-shadow: 0 8px 32px 0 rgba(135, 47, 31, 0.6);
+  margin-left: 10px;
+}
+.navbar-btn2:hover {
+  transform: scale(1.1);
+  background-color: #f10505;
+  box-shadow: 0 8px 32px 0 rgba(135, 47, 31, 0.8);
+}
 .wrapper {
   width: auto;
   margin-top: 30px;
